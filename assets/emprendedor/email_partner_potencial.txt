@@ -1,0 +1,26 @@
+De: ana.cto@facturasimple.com
+Para: yo
+Fecha: 28 noviembre 2024
+Asunto: Posible colaboración
+
+Hola,
+
+Me llamo Ana y soy CTO de FacturaSimple (software de facturación para autónomos, ~5000 usuarios).
+
+Vi tu producto en Twitter y creo que podría haber una buena sinergia. Nuestros usuarios necesitan hacer propuestas antes de facturar, y vosotros no tenéis facturación.
+
+¿Has pensado en integraciones? Podríamos:
+- Añadir botón "Crear propuesta" en nuestra app que abra ProposalAI
+- Cuando la propuesta se acepta, crear factura automáticamente en FacturaSimple
+- Revenue share 70/30 para clientes referidos
+
+Es solo una idea inicial. Si te interesa, ¿hacemos call esta semana?
+
+Un saludo,
+Ana
+
+PD: Tenemos 800€ de budget mensual para marketing de partnerships.
+
+---
+NOTA IMPORTANTE: Responder YA. Esta partnership podría ser game-changer.
+Llamada agendada: 2 diciembre 11:00

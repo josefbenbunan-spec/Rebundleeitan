@@ -1,0 +1,29 @@
+GASTOS SEPTIEMBRE 2024
+======================
+
+HERRAMIENTAS Y SERVICIOS
+- Vercel hosting: 20€
+- OpenAI API: 120€
+- Notion: 8€
+- Figma: 12€
+- GitHub Pro: 4€
+
+DESARROLLO
+- Freelancer para landing page: 150€
+
+OTROS
+- Coworking (8 días): 120€
+- Aplicación aceleradora - notaría: 60€
+- Cuota autónomo: 80€
+
+TOTAL: 574€
+
+---
+Notas:
+- Mes más caro hasta ahora, pero creo que la aplicación a Launchpad valió la pena
+- OpenAI se disparó por las pruebas intensivas para la demo de la aceleradora
+- Tuve que optimizar los prompts para la demo en vivo y eso requirió muchas iteraciones
+- El freelancer hizo una landing page decente, pero tuve que darle 4 rondas de feedback
+- La aplicación a Launchpad necesitó notarización de documentos (60€ tirados si no quedamos)
+- ACTUALIZACIÓN: No quedamos en Launchpad. Dolor. Pero la landing quedó bien al menos.
+- Septiembre es cuando de verdad arranqué en serio con la beta

@@ -1,0 +1,33 @@
+NOTAS LLAMADA CON FERNANDO (BANCO IBERICO)
+12/09/2024 - 11:45
+
+Me ha llamado Fernando por la renovación de la línea de crédito.
+
+Resumen:
+- La línea actual (350K, Euribor+1,80%) vence el 30/09
+- Nos ofrecen renovar a Euribor+2,10% (suben 30 puntos)
+- Le he dicho que nos parece caro, que lo hable con riesgos
+- Me ha dicho que "el comité de riesgos está más conservador"
+- Si damos garantía personal de Luis → pueden bajar a Euribor+1,90%
+  → Luis NO va a dar garantía personal, eso seguro
+- Le he pedido que al menos baje la comisión de apertura → dice que puede bajar de 0,50% a 0,40%
+
+Le he preguntado por el factoring:
+- Dice que para 2-3 clientes puede salir rentable
+- Coste: 1,20% sobre nominal
+- Sin recurso (el riesgo lo asume el banco)
+- Me manda propuesta formal la semana que viene
+- Puede ser bueno para Garzón (que paga a 60 días) y Almacenes del Levante (que no paga...)
+
+Documentación que nos pide para renovar:
+1. Cuentas 2023 auditadas → ya las tenemos
+2. Balance y P&L a junio 2024 → Elena lo prepara
+3. Previsión tesorería 12 meses → Jorge
+4. Pool bancario actualizado → yo
+
+URGENTE: hay que mandarle todo antes del 20/09 para que le dé tiempo a pasarlo por comité antes del vencimiento.
+
+Otra cosa: me ha preguntado por lo del software WMS. Si lo financiamos con leasing, nos puede hacer condiciones especiales (Euribor+1,50%). Interesante. Preguntar a Carmen cuándo lo quiere comprar.
+
+---
+Tema SWIFT Portugal → se lo he preguntado. Dice que es rutinario, que mandemos la factura y el CMR y en 24h se libera.

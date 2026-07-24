@@ -1,0 +1,50 @@
+GASTOS Q4 2024 (Oct-Nov-Dic)
+============================
+
+OCTUBRE
+-------
+Vercel: 20€
+OpenAI: 85€
+Figma: 12€
+Notion: 8€
+Abogado (TOS): 350€
+Marketing: 100€
+Coworking: 90€
+TOTAL OCT: 665€
+
+NOVIEMBRE
+---------
+Vercel: 20€
+OpenAI: 95€ (más usuarios beta)
+Figma: 12€
+Notion: 8€
+Stripe fees: 0€
+Marketing: 150€
+Coworking: 120€
+Diseñador freelance: 200€
+TOTAL NOV: 605€
+
+DICIEMBRE
+---------
+Vercel: 20€
+OpenAI: 127€ (bug, ver email)
+Figma: 12€
+Notion: 8€
+Stripe fees: 0€
+Marketing: 100€
+Coworking: 60€ (Navidad)
+TOTAL DIC: 327€
+
+=================
+TOTAL Q4: 1,597€
+=================
+
+Promedio mensual: 532€
+
+Comparado con Q3: +15%
+Razón: Más usuarios = más API calls
+
+PROYECCIÓN Q1 2025 (si tenemos 50 users de pago):
+- Ingresos: 29€ x 50 = 1,450€
+- Gastos estimados: 800€
+- Beneficio: 650€ (primer mes con profit!)

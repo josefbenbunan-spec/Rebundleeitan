@@ -1,0 +1,34 @@
+GASTOS MARZO 2024
+=================
+
+HERRAMIENTAS Y SERVICIOS
+- Vercel hosting: 20€
+- OpenAI API: 95€
+- Notion: 8€
+- Figma: 12€
+- GitHub Pro: 4€
+- Mailchimp: 0€ (plan gratis)
+
+MARKETING
+- (Pausado después del fracaso de enero): 0€
+
+DESARROLLO
+- Freelancer correcciones landing: 120€
+
+OTROS
+- Coworking (5 días): 75€
+- Renovación dominio proposalai.app: 15€
+- Libro "Running Lean": 18€
+- Café con Pedro (mentor): 8€
+- Cuota autónomo: 80€
+
+TOTAL: 455€
+
+---
+Notas:
+- El coste de OpenAI casi se duplicó respecto a enero (de 45€ a 95€)
+- Fue por las pruebas intensivas de nuevos prompts para mejorar la calidad
+- Necesito optimizar los prompts para reducir tokens
+- Marketing a cero este mes, la campaña de LinkedIn en enero fue un desastre total
+- Pedro me recomendó no gastar en ads hasta tener PMF claro
+- El freelancer hizo ajustes menores en la landing (responsive y SEO básico)

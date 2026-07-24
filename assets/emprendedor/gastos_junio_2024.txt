@@ -1,0 +1,29 @@
+GASTOS JUNIO 2024
+=================
+
+HERRAMIENTAS Y SERVICIOS
+- Vercel hosting: 20€
+- OpenAI API: 38€
+- Notion: 8€
+- Figma: 12€
+- GitHub Pro: 4€
+
+EVENTO
+- South Summit entrada: 95€
+
+OTROS
+- Coworking (2 días): 30€
+- Tarjetas de visita (500 uds): 25€
+- Cuota autónomo: 80€
+
+TOTAL: 312€
+
+---
+Notas:
+- Verano tranquilo, poco uso de la API
+- South Summit fue increíble - conseguí 3 contactos muy buenos:
+  * Un PM de una startup de propuestas en UK (competidor pero majo)
+  * Una mentora de Wayra que me dio feedback brutal
+  * Un freelancer que se apuntó a la beta en el acto
+- Las tarjetas de visita las hice con el logo nuevo de CreativeHub, quedaron geniales
+- Me planteo subir el presupuesto de coworking en septiembre para la vuelta

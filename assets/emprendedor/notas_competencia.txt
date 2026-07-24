@@ -1,0 +1,41 @@
+ANÁLISIS COMPETENCIA - notas rápidas
+
+PANDADOC
+- Precio: desde 19$/usuario/mes (facturado anual)
+- Enfoque: enterprise
+- Pros: integraciones, e-signature
+- Cons: caro, overkill para freelancers
+- Funding: $100M+
+
+BETTER PROPOSALS
+- Precio: desde 19£/mes
+- Enfoque: agencias pequeñas
+- Pros: bonitas plantillas
+- Cons: solo inglés
+- Sin IA
+
+PROPOSIFY
+- Precio: desde 19$/mes
+- Similar a Better Proposals
+- Más enfocado en equipos
+
+QWILR
+- Precio: desde 35$/mes
+- Propuestas interactivas (web)
+- Muy visual
+
+HONEYBOOK
+- Precio: 16$/mes
+- Todo en uno (CRM + propuestas + pagos)
+- Para creativos
+
+---
+
+MI DIFERENCIACIÓN:
+1. IA generativa (nadie la tiene integrada de verdad)
+2. En español (mercado desatendido)
+3. Precio más bajo para freelancers individuales
+4. Simple (no quiero ser todo en uno)
+
+---
+Actualizado: nov 2024

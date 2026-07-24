@@ -1,0 +1,26 @@
+De: david.dev@outlook.com
+Para: carlos@proposalai.app
+Fecha: 18 enero 2025
+Asunto: Problema de rendimiento - La generación tarda demasiado
+
+Carlos,
+
+Te escribo porque la última semana la herramienta está yendo bastante lenta y me está afectando al flujo de trabajo.
+
+Hoy he generado una propuesta sencilla (3 secciones, proyecto de landing page) y ha tardado 45 segundos. Hace un mes la misma propuesta tardaba 15-20 segundos. Y para propuestas más largas (las de desarrollo completo con 6-7 secciones) estoy llegando a 1 minuto y medio.
+
+Te lo digo porque la semana pasada un colega me enseñó Qwilr y generaba algo similar en 10 segundos. Sí, el resultado de ProposalAI es mejor en contenido, pero si la diferencia de velocidad es tan grande, cuesta justificarlo.
+
+Cosas que he notado:
+- Los días laborables a primera hora (9-10h) va especialmente lento
+- Los fines de semana funciona mucho mejor
+- No creo que sea mi conexión porque el resto de herramientas van bien
+
+Otra cosa: el loading spinner no da ninguna indicación de progreso. Al menos estaría bien saber si está al 50% o al 90%, porque 45 segundos mirando una rueda girar se hace eterno.
+
+No quiero ser negativo porque la herramienta me encanta y me ahorra mucho tiempo. Pero la velocidad es clave para mi workflow y si sigue así tendré que buscar alternativas.
+
+¿Estáis trabajando en optimización? ¿Hay algo que pueda hacer por mi lado?
+
+Un saludo,
+David

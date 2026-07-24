@@ -1,0 +1,37 @@
+TAREAS ENERO 2025
+==================
+
+Semana 1 (1-5 ene)
+------------------
+[HECHO] Planificar objetivos del año
+[HECHO] Enviar felicitaciones a clientes
+[HECHO] Revisar cuentas año anterior
+
+Semana 2 (6-12 ene)
+-------------------
+[HECHO] Reunión kick-off proyecto nuevo
+[HECHO] Contratar herramienta de gestión
+[    ] Actualizar tarifas 2025 -> PENDIENTE
+
+Semana 3 (13-19 ene)
+--------------------
+[HECHO] Entregar fase 1 proyecto Beta
+[HECHO] Networking event
+[    ] Escribir artículo blog -> pospuesto
+
+Semana 4 (20-26 ene)
+--------------------
+[    ] Propuesta cliente nuevo
+[    ] Revisión mensual con equipo
+[    ] Preparar facturas enero
+
+Semana 5 (27-31 ene)
+--------------------
+[    ] Cierre mes
+[    ] Planificar febrero
+[    ] Backup trimestral
+
+NOTAS DEL MES:
+- Enero flojo en ventas (normal post-navidad)
+- Buen feedback del proyecto Beta
+- Posible colaboración nueva en febrero

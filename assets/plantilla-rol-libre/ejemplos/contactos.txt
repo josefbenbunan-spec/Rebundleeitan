@@ -1,0 +1,58 @@
+CONTACTOS IMPORTANTES
+=====================
+
+=== CLIENTES ACTUALES ===
+
+María García - Empresa XYZ
+Email: maria.garcia@xyz.com
+Tel: +34 600 111 222
+Notas: Proyecto Beta, muy buena relación
+
+Ana López - ClienteABC
+Email: ana.lopez@clienteabc.com
+Tel: +34 600 333 444
+Notas: Directora operaciones, potencial para más proyectos
+
+=== LEADS / PROSPECTOS ===
+
+Pedro [apellido?] - [empresa por confirmar]
+Email: pendiente
+Tel: contactar vía LinkedIn
+Notas: Llamada del 24 ene, interesado
+
+Javier Martínez - [empresa]
+Email: javier.martinez@empresa.com
+Tel: ?
+Notas: Email urgente pendiente de respuesta
+
+=== PARTNERS / COLABORADORES ===
+
+Roberto Sánchez - PartnerCorp
+Email: roberto.sanchez@partnercorp.com
+Tel: +34 600 000 000
+Notas: CEO, posible colaboración
+
+Carlos [socio]
+Email: carlos@email.com
+Tel: lo tengo en el móvil
+Notas: Partner habitual, weekly sync
+
+=== PROVEEDORES ===
+
+Gestoría
+Tel: 91 XXX XX XX
+Notas: Llamar para tema IVA
+
+Proveedor.es
+Email: pedidos@proveedor.es
+Notas: Pedido #4521 en curso
+
+=== OTROS ===
+
+Abogado - Luis
+Tel: en el móvil
+Notas: Para revisar contratos
+
+Banco - Gestor Marta
+Tel: oficina central
+Notas: Tema transferencia pendiente

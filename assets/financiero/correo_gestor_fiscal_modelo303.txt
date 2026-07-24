@@ -1,0 +1,20 @@
+De: Roberto Castillo <roberto.castillo@asesoriafiscalrc.es>
+Para: Marta Jiménez Torres <marta.jimenez@mediterranealogistica.es>
+Fecha: 8 de octubre de 2024, 14:55
+Asunto: Dudas modelo 303 - Q3 2024
+
+Marta,
+
+Revisando los datos para el 303 del tercer trimestre, tengo varias dudas:
+
+1. FACTURA INTRACOMUNITARIA: Hay una factura de un proveedor portugués (Transportes Algarve Lda.) por 4.200 € sin IVA. ¿Es una adquisición intracomunitaria? Si es así, hay que hacer la autoliquidación (IVA devengado + IVA deducible). ¿Tenéis el NIF-IVA portugués del proveedor verificado en VIES?
+
+2. FACTURA RECTIFICATIVA: Veo una factura rectificativa de Envases Iberia por -1.350 € con fecha julio. ¿Es por devolución de mercancía o por descuento? El tratamiento de IVA es distinto.
+
+3. BASE IMPONIBLE EXENTA: Tenéis 22.100 € de exportación a Portugal (factura a Distribuciones Almeida). ¿Lleváis la documentación de exportación (DUA)? Sin DUA no podemos aplicar la exención de IVA.
+
+4. PRORRATA: Con las operaciones exentas de exportación, ¿deberíamos aplicar prorrata de IVA? Hay que calcular si el porcentaje de operaciones con derecho a deducción supera el 95%.
+
+Necesito tus respuestas antes del lunes 14 para poder presentar el modelo dentro de plazo.
+
+Roberto

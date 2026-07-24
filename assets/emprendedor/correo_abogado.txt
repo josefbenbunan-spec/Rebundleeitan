@@ -1,0 +1,29 @@
+De: mgarcia@bufetegarcia.es
+Para: yo
+Fecha: 20 octubre 2024
+Asunto: Re: Consulta sobre Términos de Servicio
+
+Buenos días,
+
+He revisado el borrador de Términos de Servicio que me enviaste. Mis comentarios:
+
+PROBLEMAS DETECTADOS:
+
+1. Cláusula de responsabilidad: Demasiado genérica. Necesitas especificar que no te haces responsable de las propuestas generadas ni de su uso comercial.
+
+2. Propiedad intelectual: Falta aclarar quién es dueño del output (el usuario o tú). Recomiendo que sea del usuario.
+
+3. Protección de datos: Mencionas GDPR pero falta nombrar al DPO y proceso de reclamación.
+
+4. Cancelación: El plazo de 30 días es muy largo. Los usuarios esperan cancelación inmediata.
+
+Te adjunto un borrador revisado. Mi minuta por este trabajo es de 350€ + IVA.
+
+¿Agendamos llamada para resolver dudas?
+
+Saludos,
+María García
+Abogada - Derecho Digital
+
+---
+NOTA: Pagar esta factura. Los TOS son importantes antes de lanzar.

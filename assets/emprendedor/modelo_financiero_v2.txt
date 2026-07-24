@@ -1,0 +1,60 @@
+MODELO FINANCIERO - ProposalAI v2
+=================================
+
+Última actualización: Dic 2024
+
+ASSUMPTIONS:
+- Precio Pro: 29€/mes
+- Churn mensual: 5%
+- CAC: 50€ (objetivo)
+- LTV: 580€ (29€ x 20 meses promedio)
+- LTV/CAC ratio: 11.6x (muy bueno si se cumple)
+
+---
+
+PROYECCIÓN 18 MESES:
+
+| Mes | Nuevos | Churn | Total | MRR    | Gastos | Net     |
+|-----|--------|-------|-------|--------|--------|---------|
+| 1   | 10     | 0     | 10    | 290€   | 500€   | -210€   |
+| 2   | 15     | 1     | 24    | 696€   | 550€   | 146€    |
+| 3   | 20     | 1     | 43    | 1,247€ | 600€   | 647€    |
+| 4   | 25     | 2     | 66    | 1,914€ | 700€   | 1,214€  |
+| 5   | 30     | 3     | 93    | 2,697€ | 800€   | 1,897€  |
+| 6   | 35     | 5     | 123   | 3,567€ | 900€   | 2,667€  |
+| 7   | 40     | 6     | 157   | 4,553€ | 1,000€ | 3,553€  |
+| 8   | 50     | 8     | 199   | 5,771€ | 1,200€ | 4,571€  |
+| 9   | 60     | 10    | 249   | 7,221€ | 1,400€ | 5,821€  |
+| 10  | 70     | 12    | 307   | 8,903€ | 1,600€ | 7,303€  |
+| 11  | 80     | 15    | 372   | 10,788€| 1,800€ | 8,988€  |
+| 12  | 100    | 19    | 453   | 13,137€| 2,000€ | 11,137€ |
+
+ARR Mes 12: 157,644€
+
+---
+
+SENSIBILIDAD:
+
+Si churn es 10% (no 5%):
+- Mes 12: 280 usuarios, 8,120€ MRR, 97,440€ ARR
+
+Si precio es 19€ (no 29€):
+- Mes 12: 453 usuarios, 8,607€ MRR, 103,284€ ARR
+
+Si crecimiento es 50% del proyectado:
+- Mes 12: 180 usuarios, 5,220€ MRR, 62,640€ ARR
+
+---
+
+BREAK-EVEN:
+Con gastos de 500€/mes: ~18 usuarios
+Con gastos de 800€/mes: ~28 usuarios
+Con gastos de 1,200€/mes: ~42 usuarios
+
+---
+
+NOTAS:
+- Este modelo es optimista
+- La realidad será diferente
+- Actualizar mensualmente con datos reales
+- Prioridad: reducir churn

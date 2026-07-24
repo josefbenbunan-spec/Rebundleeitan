@@ -1,0 +1,55 @@
+CÁLCULO DE RUNWAY
+=================
+
+Fecha: 10 enero 2025
+
+AHORROS DISPONIBLES:
+- Cuenta corriente: 2,800€
+- Cuenta ahorro: 4,500€
+- Total disponible: 7,300€
+
+GASTOS MENSUALES FIJOS:
+- Alquiler: 650€
+- Comida: 300€
+- Servicios: 80€
+- Transporte: 50€
+- Otros personales: 150€
+- Subtotal personal: 1,230€
+
+GASTOS STARTUP:
+- Herramientas: ~150€
+- API OpenAI: ~120€
+- Marketing: ~100€
+- Otros: ~80€
+- Subtotal startup: ~450€
+
+TOTAL MENSUAL: ~1,680€
+
+RUNWAY:
+7,300€ / 1,680€ = 4.3 meses
+
+FECHA LÍMITE: Mayo 2025
+
+---
+
+ESCENARIOS:
+
+A) Consigo 50 usuarios pago (29€ x 50 = 1,450€/mes)
+   Nuevo runway: Indefinido (casi break-even)
+
+B) Consigo inversión de 50K€
+   Nuevo runway: +12 meses mínimo
+
+C) Vuelvo a freelance part-time (1,500€/mes)
+   Nuevo runway: Indefinido pero menos tiempo para startup
+
+D) Préstamo familiar (5,000€ disponibles si pido)
+   Nuevo runway: +3 meses
+
+---
+
+DECISIÓN:
+Enfocarme 100% en conseguir esos 50 usuarios.
+Si no llego para marzo, activar Plan C (freelance part-time).
+
+Actualizado: 10 enero 2025

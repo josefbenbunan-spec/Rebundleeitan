@@ -1,0 +1,26 @@
+---------- Mensaje reenviado ----------
+De: pedidos@proveedor.es
+Fecha: 23 de enero de 2025
+Asunto: Confirmación pedido #4521
+
+Estimado cliente,
+
+Le confirmamos la recepción de su pedido con los siguientes detalles:
+
+Pedido: #4521
+Fecha: 23/01/2025
+Estado: En proceso
+
+Artículos:
+- Material de oficina básico x2
+- Servicios mensuales (renovación)
+
+Importe total: 450,00 EUR + IVA
+
+La entrega estimada es de 5-7 días laborables.
+
+Para cualquier consulta, responda a este correo.
+
+Atentamente,
+Departamento de Pedidos
+proveedor.es

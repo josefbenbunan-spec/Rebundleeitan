@@ -1,0 +1,16 @@
+From: roberto@diaztech.com
+To: carlos@miservicio.com
+Date: 2024-12-03
+Subject: URGENTE - Retraso en entrega API
+
+Carlos,
+
+Te escribo porque estamos bastante preocupados con el retraso en la integración de la API que teníamos prevista para el lunes pasado. Ya llevamos tres días de retraso y nuestro equipo de desarrollo está bloqueado esperando tu parte.
+
+Entiendo que pueden surgir imprevistos, pero necesitamos que nos des una fecha firme de entrega. Nuestro lanzamiento depende directamente de esta integración y no podemos retrasarlo más.
+
+¿Puedes confirmarme hoy mismo cuándo estará lista? Si hay algún problema técnico que no habíamos previsto, necesitamos saberlo ya para buscar alternativas.
+
+Gracias,
+Roberto Díaz
+DiazTech

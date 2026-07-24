@@ -1,0 +1,62 @@
+FACTURAS POR COBRAR - Estado a 30 de enero de 2025
+===================================================
+
+FACTURAS VENCIDAS
+-----------------
+
+1. Pedro Ruiz (Ruiz & Asociados)
+   Factura: F-2024-006
+   Concepto: Fase 2 digitalización noviembre 2024
+   Base: 2.800,00€ | IVA: 588,00€ | Total: 3.388,00€
+   Fecha emisión: 2024-11-15
+   Vencimiento: 2024-12-15
+   Estado: VENCIDA - 46 días de retraso
+   Notas: Pedro prometió gestionar con administración en mayo.
+          Llamé el 10 de enero, dice que "está en proceso".
+          Enviar email formal de reclamación.
+
+FACTURAS PENDIENTES (dentro de plazo)
+--------------------------------------
+
+2. Ana López (Estudio ANA)
+   Factura: F-2024-004
+   Concepto: Mantenimiento web Q3 2024
+   Base: 1.500,00€ | IVA: 315,00€ | Total: 1.815,00€
+   Fecha emisión: 2024-09-01
+   Vencimiento: 2024-10-01
+   Estado: PENDIENTE - Fuera de plazo pero Ana confirmó pago esta semana (20 dic)
+   Notas: Prometido en la reunión de diciembre. Hacer seguimiento.
+
+3. Ana López (Estudio ANA)
+   Factura: F-2025-001
+   Concepto: Rediseño marca enero 2025
+   Base: 1.800,00€ | IVA: 378,00€ | Total: 2.178,00€
+   Fecha emisión: 2025-01-10
+   Vencimiento: 2025-02-09
+   Estado: PENDIENTE - Reciente, dentro de plazo
+   Notas: Factura recién emitida, sin urgencia.
+
+4. Roberto Díaz (DiazTech)
+   Factura: F-2025-002
+   Concepto: Integración API enero 2025
+   Base: 950,00€ | IVA: 199,50€ | Total: 1.149,50€
+   Fecha emisión: 2025-01-28
+   Vencimiento: 2025-02-27
+   Estado: PENDIENTE - Reciente, dentro de plazo
+   Notas: Pendiente de validación del equipo de Roberto.
+
+RESUMEN
+-------
+Facturas vencidas:    1    |  Importe: 3.388,00€
+Facturas pendientes:  3    |  Importe: 5.142,50€
+                           |  --------------------
+TOTAL POR COBRAR:     4    |  Total:   8.530,50€ (IVA incluido)
+
+Total base imponible por cobrar: 7.050,00€
+
+ACCIONES NECESARIAS
+-------------------
+[ ] Enviar reclamación formal a Pedro Ruiz (F-2024-006)
+[ ] Hacer seguimiento del pago de Ana (F-2024-004)
+[ ] Esperar vencimiento para F-2025-001 y F-2025-002
+[ ] Considerar incluir cláusula de recargo por demora en futuros contratos

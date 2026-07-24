@@ -1,0 +1,19 @@
+From: carlos@miservicio.com
+To: ana@estudioana.com
+Date: 2024-09-15
+Subject: RE: Estado del proyecto web - Entrega parcial adjunta
+
+Hola Ana,
+
+Te envío adjunta la segunda entrega del proyecto con las páginas principales ya maquetadas y funcionales. Incluye la home, la página de servicios y la sección de portfolio con las imágenes que me facilitasteis la semana pasada.
+
+Queda pendiente integrar el formulario de contacto y la pasarela de pago, que tengo previsto terminar para el viernes 20, justo a tiempo para vuestra presentación interna.
+
+¿Podrías revisar el diseño y confirmarme si los colores y tipografías son los definitivos? He seguido la guía de marca que me pasaste, pero prefiero asegurarme antes de cerrar el resto de páginas.
+
+Te adjunto también un enlace al entorno de pruebas para que lo veas en directo: staging.estudioana-web.miservicio.com
+
+Cualquier comentario, me dices.
+
+Un saludo,
+Carlos García

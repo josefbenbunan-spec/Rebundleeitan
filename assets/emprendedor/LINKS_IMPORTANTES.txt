@@ -1,0 +1,51 @@
+LINKS IMPORTANTES
+=================
+
+MI PRODUCTO
+-----------
+Landing page: https://proposalai.app
+Dashboard: https://app.proposalai.app
+Stripe dashboard: https://dashboard.stripe.com
+Vercel: https://vercel.com/mi-proyecto
+
+HERRAMIENTAS
+------------
+Notion workspace: https://notion.so/mi-workspace
+Figma proyecto: https://figma.com/file/xxxxx
+GitHub repo: https://github.com/mi-user/proposalai
+Analytics: https://plausible.io/proposalai.app
+
+DOCS IMPORTANTES
+----------------
+Pitch deck (Canva): https://canva.com/xxxxx
+Financial model: https://docs.google.com/spreadsheets/xxxxx
+Competencia analysis: https://docs.google.com/docs/xxxxx
+
+COMUNIDADES
+-----------
+Indie Hackers perfil: https://indiehackers.com/@miusuario
+Product Hunt: https://producthunt.com/@miusuario
+Twitter: https://twitter.com/miusuario
+LinkedIn: https://linkedin.com/in/miusuario
+
+RECURSOS LEGALES
+----------------
+Términos servicio (borrador): https://docs.google.com/xxxxx
+Política privacidad: https://docs.google.com/xxxxx
+Contrato tipo: https://docs.google.com/xxxxx
+
+INSPIRACIÓN
+-----------
+Competidores a vigilar:
+- https://pandadoc.com
+- https://proposify.com
+- https://betterproposals.io
+
+Founders que admiro:
+- Pieter Levels: https://twitter.com/levelsio
+- Jon Yongfook: https://twitter.com/yongfook
+- Marc Lou: https://twitter.com/marc_louvion
+
+---
+Última actualización: enero 2025
+TODO: Organizar esto mejor (quizás en Notion?)

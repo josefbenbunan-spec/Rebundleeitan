@@ -1,0 +1,34 @@
+De: Carmen Vidal <carmen.vidal@mediterranealogistica.es>
+Para: Marta Jiménez Torres <marta.jimenez@mediterranealogistica.es>
+CC: Luis Ortega <luis.ortega@mediterranealogistica.es>
+Fecha: 18 de septiembre de 2024, 16:05
+Asunto: Desviación costes almacén zona 3 - Necesito tu input
+
+Marta,
+
+Te paso el desglose de costes del almacén zona 3 (el nuevo que abrimos en abril). Los números no cuadran con lo que presupuestamos:
+
+PRESUPUESTO MENSUAL vs REAL (media abril-agosto):
+
+| Concepto | Presupuesto | Real | Desviación |
+|----------|-------------|------|------------|
+| Alquiler | 4.500 € | 4.500 € | 0% |
+| Personal (6 operarios) | 18.000 € | 19.800 € | +10% |
+| Suministros (luz, agua) | 3.200 € | 4.150 € | +29,7% |
+| Mantenimiento | 1.500 € | 2.300 € | +53,3% |
+| Seguros | 800 € | 800 € | 0% |
+| Material embalaje | 5.000 € | 6.200 € | +24% |
+| TOTAL | 33.000 € | 37.750 € | +14,4% |
+
+El problema principal es:
+1. Tuvimos que contratar un operario extra en junio (vacante no prevista)
+2. El sistema de climatización consume más de lo estimado
+3. Mantenimiento — la instalación eléctrica ha dado problemas
+
+Necesito que hablemos sobre si metemos esto en el forecast de Q4 como gasto recurrente o si lo tratamos como gasto extraordinario de puesta en marcha.
+
+¿Te viene bien mañana a las 10:00?
+
+Carmen Vidal
+Directora de Operaciones
+Mediterránea Logística S.L.

@@ -1,0 +1,38 @@
+BACKUP CONTACTOS - Exportado del móvil de Ana el 15/12/2023
+
+CLIENTES:
+Roberto Navarro - 650 12 34 56 / 956 22 31 40 / rnavarro@gruponavarro.es
+Luis Navarro - 650 23 45 67 / lnavarro@gruponavarro.es
+Marta Domínguez - 670 34 56 78 / mdominguez@gmail.com
+Fernando Ruiz (nuevo socio Navarro) - 680 45 67 89 / fruiz@inversiones.es
+Carmen Delgado - 670 12 34 56 / 956 33 45 67 / cdelgado@importacionesdelgado.com
+Alberto Delgado (hijo) - 670 98 76 54 / adelgado@importacionesdelgado.com
+Javier Romero (Sol de Cádiz) - 670 45 67 89 / jromero@soldecadiz.es
+Pablo Romero (hermano) - 670 56 78 90 / promero@soldecadiz.es
+Dra. Patricia Fuentes - 678 90 12 34 / pfuentes@clinicafuentes.es
+Manuel Ortega (AgriVerde) - 690 12 34 56 / mortega@agriverde.coop
+Francisco Ruiz (secretario AgriVerde) - 690 23 45 67
+Elena Vázquez (potencial - herencia) - 678 45 23 11 / elena.vazquez@gmail.com
+
+JUZGADOS Y PROFESIONALES:
+Procurador José García - 650 78 90 12 / jgarcia@procuradorcadiz.es
+Notaría Pérez-Cano - 956 22 11 33 / notaria@perezcano.es
+Pedro Alonso (abogado colaborador, Sevilla) - 654 32 10 98 / palonso@abogadosevilla.es
+Enrique Soler (abogado Zurich, Madrid) - 691 45 67 89 / esoler@zurich-legal.es
+Isabel Moreno Prats (abogada contraria) - ¿? no tengo su móvil
+
+PROVEEDORES:
+Gestoría Martín - 956 25 60 80 / gestin@gestorimartin.es
+Informática Sur - 956 88 99 00 / soporte@informaticasur.es
+Ofistore Cádiz - 956 27 33 44
+Seguros Meridional - 900 100 200
+
+PERSONALES:
+Restaurante El Faro (reservas) - 956 21 10 68
+Dentista Dra. Pérez - 956 26 78 90
+Peluquería Mar - 678 11 22 33
+Gimnasio AquaGym - 956 29 45 67
+Mamá - 956 18 XX XX
+Hermano Carlos - 650 XX XX XX
+
+NOTA: Algunos números pueden estar desactualizados. Verificar antes de usar.

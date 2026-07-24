@@ -1,0 +1,24 @@
+De: support@stripe.com
+Para: yo
+Fecha: 8 enero 2025
+Asunto: Action required: Complete your account verification
+
+Hi,
+
+To continue processing payments, we need you to complete identity verification for your Stripe account.
+
+Required documents:
+- Government-issued ID (passport or DNI)
+- Proof of address (utility bill or bank statement)
+- Business registration document
+
+You have 14 days to submit these documents. If not completed, payouts will be paused.
+
+Upload documents here: [link]
+
+Best,
+Stripe Support Team
+
+---
+NOTA: URGENTE - Subir documentos antes del 22 enero
+Estado: COMPLETADO 10 enero

@@ -1,0 +1,22 @@
+Fecha_vencimiento,Expediente,Tipo_plazo,Descripcion,Dias_restantes,Estado
+2024-01-31,DESPACHO,Fiscal,Renovacion seguro RC profesional,0,Completado
+2024-01-31,DESPACHO,Colegial,Pago cuota colegial anual,0,Completado
+2024-02-02,EXP-DEL-2024/001,Administrativo,Presentacion recurso alzada aduanas,0,Completado
+2024-03-15,EXP-SOL-2024/001,Contractual,Contraoferta arrendamiento Plaza de Mina,0,Completado
+2024-04-01,EXP-AGR-2024/001,Administrativo,Regularizacion SIGPAC antes PAC,0,Completado
+2024-04-05,EXP-FUE-2023/001,Procesal,Presentacion informe pericial 10 dias antes vista,0,Completado
+2024-04-15,EXP-FUE-2023/001,Procesal,Vista oral JPI 7 Cadiz,0,Completado
+2024-04-30,EXP-AGR-2024/001,Administrativo,Plazo solicitud PAC 2024,0,Completado
+2024-05-20,EXP-FUE-2023/001,Procesal,Recurso apelacion - plazo 20 dias,0,Completado
+2024-06-30,EXP-SOL-2024/001,Contractual,Firma contrato arrendamiento definitivo,15,Proximo
+2024-07-15,DESPACHO,Fiscal,Declaracion trimestral IVA 2T,30,Proximo
+2024-07-20,EXP-DEL-2024/003,Procesal,Plazo interposicion demanda principal tras cautelares,35,Proximo
+2024-08-15,EXP-DEL-2024/002,Contractual,Plazo condicion suspensiva financiacion nave,61,Pendiente
+2024-09-30,DESPACHO,Colegial,Acreditacion 10h formacion continua,97,Pendiente
+2024-10-15,DESPACHO,Fiscal,Declaracion trimestral IVA 3T,122,Pendiente
+2024-12-31,DESPACHO,Colegial,Completar 20h formacion continua obligatoria,199,Pendiente
+2024-12-31,EXP-NAV-2023/001,Mercantil,Deposito cuentas anuales 2023 (Navarro),199,Pendiente
+2025-01-15,EXP-SOL-2023/002,Procesal,Estimacion señalamiento vista TSJ Andalucia,214,Pendiente
+2025-02-28,EXP-FUE-2023/001,Procesal,Estimacion resolucion recurso apelacion AP Cadiz,258,Pendiente
+2025-03-15,EXP-NAV-2024/001,Mercantil,Constitucion sucursal Valencia,283,Pendiente
+2025-04-30,EXP-AGR-2024/002,Administrativo,Plazo solicitud PAC 2025,329,Pendiente

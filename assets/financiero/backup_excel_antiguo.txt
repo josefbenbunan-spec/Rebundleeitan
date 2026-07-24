@@ -1,0 +1,33 @@
+NOTA SOBRE ARCHIVO EXCEL PERDIDO
+================================
+
+El 15 de agosto se me ha corrompido el Excel "MASTER_FINANCIERO_2024.xlsx" que tengo en el escritorio. No abre. Dice "El archivo está dañado y no se puede abrir".
+
+Es EL archivo gordo donde tengo:
+- P&L mensual con gráficos
+- Balance trimestral
+- Cash flow
+- Aging de clientes y proveedores
+- KPIs con evolución mensual
+- Presupuesto 2024 detallado
+- Forecast Q3-Q4
+- Comparativa interanual 2023 vs 2024
+- Dashboard con semáforos para el comité
+
+Pesaba 28 MB porque tenía 15 pestañas con macros y gráficos dinámicos.
+
+INTENTO DE RECUPERACIÓN:
+1. Intenté abrir con "Abrir y reparar" de Excel → no funciona
+2. David me recuperó una versión de hace 2 semanas del backup → faltan los datos de agosto
+3. He rehecho los datos de agosto a mano desde SAP → he perdido 4 horas
+4. La versión recuperada tiene las macros rotas → no generan los gráficos automáticos
+
+CONCLUSIONES:
+- Nunca más un solo Excel de 28 MB para todo
+- Necesitamos backup en la nube (David lo sabe, a ver cuándo lo hace)
+- Los datos de agosto los he recreado pero puede que haya diferencias menores
+- Las macros de los gráficos las hice yo en 2022 y no me acuerdo cómo funcionan
+
+Si algún día alguien lee esto: el backup está en el disco externo de la oficina (el Western Digital negro que está en el armario de Marta) en la carpeta "BACKUP_AGOSTO2024".
+
+Fecha: 15/08/2024

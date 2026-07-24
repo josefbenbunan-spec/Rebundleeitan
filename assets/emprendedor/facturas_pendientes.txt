@@ -1,0 +1,37 @@
+FACTURAS PENDIENTES DE PAGAR
+============================
+
+Actualizado: 20 enero 2025
+
+POR PAGAR (urgente):
+--------------------
+1. Abogada - TOS revisión
+   Importe: 350€ + IVA = 423.50€
+   Vencimiento: 31 enero 2025
+   Estado: PENDIENTE
+
+2. Diseñador - Plantillas PDF
+   Importe: 200€ + IVA = 242€
+   Vencimiento: 15 febrero 2025
+   Estado: PENDIENTE
+
+POR COBRAR:
+-----------
+(vacío - todavía no hay clientes de pago)
+
+PAGOS RECURRENTES:
+------------------
+- Vercel: 20€ (día 1 de cada mes) - AUTOMÁTICO
+- Figma: 12€ (día 15) - AUTOMÁTICO
+- Notion: 8€ (día 20) - AUTOMÁTICO
+- OpenAI: Variable (~100-150€) - AUTOMÁTICO
+
+PRÓXIMAS FACTURAS ESPERADAS:
+----------------------------
+- Stripe (cuando empiecen pagos): 2.9% + 0.25€ por transacción
+- Hosting escalado (si crecemos): ~50-100€/mes
+
+---
+
+NOTA: Cuando tenga clientes, automatizar facturación con Holded o similar.
+Por ahora no tiene sentido pagar otro SaaS.

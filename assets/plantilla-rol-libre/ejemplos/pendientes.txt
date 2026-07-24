@@ -1,0 +1,26 @@
+PENDIENTES (actualizado 20 ene)
+
+=== CLIENTES ===
+* Proyecto Alpha - esperando feedback del cliente
+* Proyecto Beta - en curso, deadline 15 feb
+* Proyecto Gamma - pausado por el cliente
+
+=== ADMIN ===
+* Facturas por cobrar: 2.400 EUR
+* Facturas por pagar: 890 EUR
+* IVA trimestral - recordar para abril
+
+=== PERSONAL ===
+* Dentista - pedir cita
+* Renovar seguro coche - febrero
+* Regalo cumple mamá - 8 feb
+
+=== FORMACIÓN ===
+* Terminar curso online
+* Leer libro de productividad
+* Webinar el jueves a las 18h
+
+=== IDEAS PARA LUEGO ===
+* Nuevo servicio que comentó aquel cliente
+* Colaboración con Roberto
+* Mejorar proceso de onboarding

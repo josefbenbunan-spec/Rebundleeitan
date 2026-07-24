@@ -1,0 +1,67 @@
+INGRESOS 2024 - Carlos García
+==============================
+
+Resumen anual de facturación
+
+FACTURACIÓN POR MES
+-------------------
+Enero:      0€
+Febrero:    0€
+Marzo:      1.200€  (Ana López - Diseño y desarrollo web)
+Abril:      0€
+Mayo:        2.500€  (Pedro Ruiz - Consultoría digital Q1-Q2)
+Junio:      0€
+Julio:      800€    (Roberto Díaz - Soporte técnico)
+Agosto:     1.950€  (Sara Martín - Proyecto conjunto)
+Septiembre: 1.500€  (Ana López - Mantenimiento web Q3)
+Octubre:    3.200€  (Laura Sánchez - Proyecto especial)
+Noviembre:  2.800€  (Pedro Ruiz - Fase 2 digitalización)
+Diciembre:  950€    (Roberto Díaz - Integración API*)
+
+(*) Factura emitida en enero 2025 pero trabajo realizado en diciembre
+
+TOTAL FACTURADO 2024: 14.900€
+
+DESGLOSE POR CLIENTE
+--------------------
+Ana López (Estudio ANA):         4.200€   (28,2%)
+Pedro Ruiz (Ruiz & Asociados):   5.300€   (35,6%)
+Roberto Díaz (DiazTech):         1.750€   (11,7%)
+Laura Sánchez (LS Consulting):   3.200€   (21,5%)
+Sara Martín (SM Digital):        1.950€   (13,1%)
+                                 -------
+Subtotal verificación:          16.400€
+
+Nota: El total facturado de 14.900€ excluye la factura de Roberto
+de enero 2025 (950€) y se calcula solo sobre facturas con fecha 2024.
+
+FACTURACIÓN EFECTIVA 2024
+-------------------------
+Ana López:    1.200 + 1.500 = 2.700€     (18,1%)
+Pedro Ruiz:   2.500 + 2.800 = 5.300€     (35,6%)
+Roberto Díaz: 800€                         (5,4%)
+Laura Sánchez: 3.200€                     (21,5%)
+Sara Martín:  1.950€                      (13,1%)
+                                          -------
+TOTAL:                        14.950€
+
+Corrección: Total real facturado en 2024 = 14.950€
+(Incluye: F-001 a F-007 con fecha 2024)
+
+COBROS EFECTIVAMENTE RECIBIDOS EN 2024
+--------------------------------------
+F-2024-001 (Ana, marzo):       1.452,00€  (con IVA) - Cobrada
+F-2024-002 (Pedro, mayo):      3.025,00€  (con IVA) - Cobrada
+F-2024-003 (Roberto, julio):     968,00€  (con IVA) - Cobrada
+F-2024-005 (Laura, octubre):   3.872,00€  (con IVA) - Cobrada
+F-2024-007 (Sara, agosto):     2.359,50€  (con IVA) - Cobrada
+                                ----------
+Total cobrado:                11.676,50€
+
+Pendiente de cobro a 31/12/2024:
+F-2024-004 (Ana, sept):        1.815,00€ - Pendiente
+F-2024-006 (Pedro, nov):       3.388,00€ - Vencida
+                                ----------
+Total pendiente:               5.203,00€
+
+CLIENTE PRINCIPAL: Pedro Ruiz (35,6% de la facturación)

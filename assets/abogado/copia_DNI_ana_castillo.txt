@@ -1,0 +1,14 @@
+AVISO: Este archivo ha sido movido a la carpeta segura del servidor.
+
+El DNI escaneado de Ana Castillo Vega se ha trasladado a:
+\\SERVIDOR\Compliance\Documentacion_personal\
+
+Por motivos de protección de datos, no se deben almacenar copias de documentos de identidad en carpetas accesibles.
+
+Movido por: Carmen Ortiz
+Fecha: 20 de enero de 2024
+
+Nota: también hay que mover las copias de DNI de:
+- Marcos Reyes
+- Lucía Fernández
+- Roberto Navarro (estaba en la carpeta del expediente, no debería)

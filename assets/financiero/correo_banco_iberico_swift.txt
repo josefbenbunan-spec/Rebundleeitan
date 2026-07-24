@@ -1,0 +1,28 @@
+De: Fernando Álvarez <fernando.alvarez@bancoiberico.es>
+Para: Marta Jiménez Torres <marta.jimenez@mediterranealogistica.es>
+Fecha: 15 de octubre de 2024, 14:22
+Asunto: Transferencia SWIFT pendiente - Distribuciones Almeida (Portugal)
+
+Marta,
+
+Te informo de que la transferencia SWIFT ordenada el 10 de octubre a favor de Distribuciones Almeida Lda. está retenida por el departamento de cumplimiento normativo.
+
+Datos de la operación:
+- Ordenante: Mediterránea Logística S.L.
+- Beneficiario: Distribuciones Almeida Lda.
+- IBAN: PT50 0033 0000 4551 5698 9910 5
+- BIC/SWIFT: BCOMPTPL
+- Importe: 22.100,00 €
+- Concepto: Pago factura exportación FE-2024-0156
+
+El motivo de la retención es que necesitamos documentación adicional:
+
+1. Factura comercial con descripción detallada de la operación
+2. Documento de transporte (CMR o conocimiento de embarque)
+3. Declaración de que la operación no está sujeta a sanciones internacionales
+
+Es un trámite rutinario para transferencias superiores a 15.000 € a cuentas no habituales. Si nos envías la documentación hoy, la transferencia se procesará mañana.
+
+Saludos,
+Fernando Álvarez
+Banco Ibérico

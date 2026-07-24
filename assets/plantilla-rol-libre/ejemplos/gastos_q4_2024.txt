@@ -1,0 +1,60 @@
+GASTOS Q4 2024 - Carlos García
+================================
+
+Período: Octubre - Diciembre 2024
+
+DETALLE DE GASTOS
+-----------------
+
+1. Hosting anual (HostingPro)
+   Fecha: 2024-12-15
+   Importe: 180,00€
+   Concepto: Renovación plan Profesional 2025
+   Factura: HP-2024-4521
+
+2. Suscripciones software
+   Fecha: Mensual (oct-dic)
+   Importe: 95,00€
+   Desglose:
+   - Figma Pro: 15€/mes = 45€
+   - Google Workspace: 12€/mes = 36€
+   - Toggl Track: 4,67€/mes = 14€
+
+3. Coworking (espacio compartido)
+   Fecha: Varios días oct-dic
+   Importe: 240,00€
+   Concepto: 12 días × 20€/día
+   Espacio: CoWork Madrid Centro
+
+4. Material de oficina
+   Fecha: 2024-10-22
+   Importe: 45,00€
+   Concepto: Tóner impresora, papel, sobres, carpetas
+   Proveedor: Papelería Ruiz
+
+5. Transporte a clientes
+   Fecha: Varios (oct-dic)
+   Importe: 65,00€
+   Desglose:
+   - Taxi reunión Pedro Ruiz (ida/vuelta): 28€
+   - Metro/bus varios desplazamientos: 22€
+   - Parking reunión Laura Sánchez: 15€
+
+6. Comidas de negocio
+   Fecha: Varios (oct-dic)
+   Importe: 85,00€
+   Desglose:
+   - Comida con Laura Sánchez (15 oct): 35€
+   - Café reunión Sara Martín (8 nov): 12€
+   - Comida cierre año Ana López (20 dic): 38€
+
+RESUMEN Q4 2024
+---------------
+Hosting:              180,00€
+Software:              95,00€
+Coworking:            240,00€
+Material oficina:      45,00€
+Transporte:            65,00€
+Comidas negocio:       85,00€
+-------------------------------
+TOTAL GASTOS Q4:      710,00€

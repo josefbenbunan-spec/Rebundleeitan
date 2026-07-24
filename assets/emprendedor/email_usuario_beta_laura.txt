@@ -1,0 +1,29 @@
+De: laura.design@gmail.com
+Para: carlos@proposalai.app
+Fecha: 12 enero 2025
+Asunto: Feature request - Integración con Notion
+
+Hola Carlos,
+
+Primero, quería decirte que llevo usando ProposalAI desde noviembre y me está ahorrando muchísimo tiempo. Antes tardaba 2-3 horas por propuesta y ahora en 20 minutos tengo algo presentable. Así que gracias por eso.
+
+Dicho esto, tengo una sugerencia que creo que mejoraría mucho la herramienta: integración con Notion.
+
+Te explico mi flujo actual:
+1. El cliente me envía un brief por email o WhatsApp
+2. Yo lo paso a Notion donde tengo mi sistema de proyectos
+3. Luego copio la info relevante de Notion y la pego en ProposalAI
+4. Genero la propuesta y la descargo
+
+El paso 3 es un rollo. Tengo que ir campo por campo copiando el nombre del proyecto, el alcance, los entregables, el timeline... Si pudiera conectar Notion directamente y que ProposalAI leyera el brief desde ahí, me ahorraría otros 10 minutos por propuesta.
+
+No sé si es algo que habéis considerado, pero creo que muchos freelancers usamos Notion como sistema central. Al menos en mi círculo (diseñadoras UX/UI), es la herramienta estándar.
+
+Otra cosa menor: ¿sería posible guardar "clientes frecuentes"? Tengo 3-4 clientes a los que les mando propuestas cada mes y siempre tengo que rellenar sus datos desde cero.
+
+Si necesitas que te dé más detalles sobre cómo uso Notion o hacer una demo de mi flujo, me apunto encantada.
+
+Un saludo,
+Laura
+
+PD: He recomendado ProposalAI a dos compañeras del coworking. Ana ya se apuntó a la waitlist.

@@ -1,0 +1,49 @@
+MÉTRICAS PROPOSALAI - ENERO 2025
+=================================
+
+PRODUCTO
+--------
+- Waitlist total: 312 personas
+- Usuarios beta activos: 12
+- Propuestas generadas (enero): 47
+- Tiempo medio de generación: 32 segundos
+- Satisfacción media: 4.2/5
+
+ENGAGEMENT
+----------
+- DAU (usuarios activos diarios): 6
+- WAU (usuarios activos semanales): 9
+- Tasa de retención mensual: 92%
+- Churn: 8% (1 usuario dejó de usar - Marta, dijo que "ya no hace freelance")
+
+CRECIMIENTO
+-----------
+- Nuevos en waitlist este mes: +23
+- Nuevos usuarios beta invitados: +2 (Ana y Roberto)
+- Fuente principal waitlist: boca a boca (65%), LinkedIn (20%), Twitter (15%)
+
+TOP FEATURE REQUESTS
+--------------------
+1. Integración con Notion: 4 usuarios lo piden
+2. Mejor formato PDF: 3 usuarios lo piden
+3. Plantillas de propuestas: 3 usuarios lo piden
+4. API/integración con otras herramientas: 2 usuarios lo piden
+5. Firma digital: 2 usuarios lo piden
+6. Historial de propuestas: 2 usuarios lo piden
+
+RENDIMIENTO TÉCNICO
+-------------------
+- Uptime: 99.2% (caída de 3h el 14 de enero por límite de API de OpenAI)
+- Errores de generación: 4 (3 por timeout, 1 por prompt demasiado largo)
+- Coste medio por propuesta generada: €0.85 (API de OpenAI)
+
+REFLEXIÓN
+---------
+- 47 propuestas generadas es buen ritmo para 12 usuarios (~4 por usuario/mes)
+- La satisfacción de 4.2 es decente pero el PDF nos baja la nota
+- El churn fue por razones no relacionadas con el producto
+- El coste por propuesta de €0.85 es sostenible si cobramos 19-29€/mes
+- Próximo objetivo: llegar a 20 usuarios beta y empezar a cobrar
+
+---
+Última actualización: 31 enero 2025

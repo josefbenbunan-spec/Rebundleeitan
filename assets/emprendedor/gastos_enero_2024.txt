@@ -1,0 +1,27 @@
+GASTOS ENERO 2024
+=================
+
+HERRAMIENTAS Y SERVICIOS
+- Vercel hosting: 20€
+- Dominio proposalai.app: 15€ (anual)
+- OpenAI API: 45€
+- Notion: 8€
+- Figma: 12€
+- Mailchimp: 0€ (plan gratis)
+
+MARKETING
+- LinkedIn Ads (test): 50€
+- Freelancer para logo: 150€
+
+OTROS
+- Coworking (3 días): 45€
+- Café con mentor: 8€
+- Libro "The Mom Test": 15€
+
+TOTAL: 368€
+
+---
+Notas:
+- El test de LinkedIn Ads fue un fracaso, 0 conversiones
+- El logo quedó bien pero tuve que hacer 3 iteraciones
+- Considerar hosting más barato

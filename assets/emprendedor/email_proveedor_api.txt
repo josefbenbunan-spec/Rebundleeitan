@@ -1,0 +1,25 @@
+De: billing@openai.com
+Para: yo
+Fecha: 12 diciembre 2024
+Asunto: Your usage has exceeded the spending limit
+
+Hi,
+
+This email is to notify you that your API usage has exceeded your spending limit of $100.00.
+
+Current usage: $127.43
+Billing cycle: December 2024
+
+Your API access has been temporarily suspended. To restore access:
+1. Update your spending limit in the dashboard
+2. Add a new payment method if needed
+
+If you believe this is an error, please contact support.
+
+Best regards,
+OpenAI Billing Team
+
+---
+NOTA URGENTE: Subir límite a $200. Revisar por qué gastamos tanto.
+Posible causa: Bug en el endpoint que hace llamadas duplicadas.
+ARREGLADO el 13/12.

@@ -1,0 +1,12 @@
+Expediente,Cliente,Tipo,Estado,Abogado_responsable,Fecha_apertura,Proximo_vencimiento,Prioridad
+EXP-NAV-2023/001,Grupo Navarro S.L.,Mercantil - Ampliación capital,Activo,Ana Castillo,2023-06-14,2024-12-31,Media
+EXP-NAV-2023/002,Grupo Navarro S.L.,Civil - Oposición embargo,Cerrado,Ana Castillo,2023-11-10,,Baja
+EXP-NAV-2024/001,Grupo Navarro S.L.,Mercantil - Apertura Valencia,Activo,Ana Castillo,2024-10-01,2025-03-15,Media
+EXP-FUE-2023/001,Dra. Patricia Fuentes,Civil - Negligencia médica,Activo,Ana Castillo,2023-11-12,2025-02-28,Alta
+EXP-SOL-2023/002,Restaurantes Sol de Cádiz S.L.,Laboral - Despido,Activo,Ana Castillo,2023-07-28,2025-01-15,Alta
+EXP-SOL-2024/001,Restaurantes Sol de Cádiz S.L.,Civil - Arrendamiento local,Activo,Ana Castillo,2024-03-01,2024-06-30,Media
+EXP-DEL-2024/001,Importaciones Delgado S.A.,Administrativo - Aduanas,Cerrado,Ana Castillo,2024-01-08,,Baja
+EXP-DEL-2024/002,Importaciones Delgado S.A.,Civil - Compraventa nave,Activo,Ana Castillo,2024-05-10,2024-08-15,Media
+EXP-DEL-2024/003,Importaciones Delgado S.A.,Mercantil - Medidas cautelares,Activo,Ana Castillo,2024-05-20,2024-07-20,Urgente
+EXP-AGR-2024/001,Cooperativa AgriVerde,Administrativo - PAC,Cerrado,Ana Castillo,2024-02-05,,Baja
+EXP-AGR-2024/002,Cooperativa AgriVerde,Administrativo - Consulta PAC 2025,En espera,Ana Castillo,2024-11-15,2025-04-30,Baja

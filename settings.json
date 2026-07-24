@@ -1,0 +1,21 @@
+{
+  "api_url": "https://classroom.rebundle.ai",
+  "activation_code": "RB-3BXZ-TX9K",
+  "watermark_id": "RB-3BXZ-TX9K",
+  "client_name": "Benbunan Family",
+  "whatsapp_group_url": null,
+  "survey_url": "https://classroom.rebundle.ai/b2b/survey/benbunan-family?code=RB-3BXZ-TX9K",
+  "peer_review_enabled": false,
+  "unlock_codes_enabled": false,
+  "diploma_enabled": true,
+  "reference_guide_url": "https://stack.rebundle.ai/claude",
+  "available_roles": [
+    "abogado",
+    "consultor",
+    "emprendedor",
+    "financiero",
+    "plantilla-rol-libre"
+  ],
+  "language": "es",
+  "duration_label": "8 HORAS"
+}
