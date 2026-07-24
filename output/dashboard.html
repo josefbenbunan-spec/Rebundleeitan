@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dashboard — ProposalAI</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<style>
+  :root{
+    --ink: #1c2333;
+    --ink-dim: #5c6478;
+    --line: #e6e9f0;
+    --bg: #f7f8fb;
+    --card: #ffffff;
+    --blue: #3457d5;
+    --blue-soft: #7c93f0;
+    --amber: #e69138;
+    --green: #2f9e6f;
+    --red: #d1495b;
+  }
+  *{ box-sizing:border-box; }
+  body{
+    margin:0; background: var(--bg); color: var(--ink);
+    font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+  }
+  header{
+    padding: 32px clamp(20px,5vw,48px) 20px;
+    border-bottom: 1px solid var(--line);
+    background: var(--card);
+  }
+  header h1{ margin: 0 0 6px; font-size: 1.6rem; }
+  header p{ margin:0; color: var(--ink-dim); font-size: 0.95rem; }
+
+  .grid{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 20px;
+    padding: 24px clamp(20px,5vw,48px) 48px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  .card{
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    padding: 20px;
+    box-shadow: 0 1px 3px rgba(20,25,40,0.04);
+  }
+  .card h2{ margin: 0 0 4px; font-size: 1.02rem; }
+  .card .sub{ margin: 0 0 16px; font-size: 0.82rem; color: var(--ink-dim); }
+  .card.wide{ grid-column: 1 / -1; }
+  canvas{ max-height: 320px; }
+
+  .kpis{
+    display:grid; grid-template-columns: repeat(auto-fit, minmax(160px,1fr));
+    gap: 16px; padding: 20px clamp(20px,5vw,48px) 0; max-width: 1200px; margin: 0 auto;
+  }
+  .kpi{
+    background: var(--card); border:1px solid var(--line); border-radius: 14px;
+    padding: 18px 20px;
+  }
+  .kpi .v{ font-size: 1.7rem; font-weight: 700; }
+  .kpi .l{ font-size: 0.8rem; color: var(--ink-dim); margin-top:2px; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Dashboard ProposalAI</h1>
+  <p>Basado en los 71 archivos de assets/emprendedor · generado con Claude Code, sin Excel ni herramientas de BI</p>
+</header>
+
+<div class="kpis">
+  <div class="kpi"><div class="v">€1.473,88</div><div class="l">Total facturado (2024)</div></div>
+  <div class="kpi"><div class="v">€665,50</div><div class="l">Pendiente de pago</div></div>
+  <div class="kpi"><div class="v">16</div><div class="l">Archivos en enero 2025 (mes pico)</div></div>
+  <div class="kpi"><div class="v">Laura</div><div class="l">Cliente/usuaria más activa</div></div>
+</div>
+
+<div class="grid">
+
+  <div class="card wide">
+    <h2>Actividad documentada por mes</h2>
+    <p class="sub">Nº de archivos con fecha en su contenido, por mes (sep 2022 – ene 2025)</p>
+    <canvas id="chartMeses"></canvas>
+  </div>
+
+  <div class="card">
+    <h2>Facturas por proveedor</h2>
+    <p class="sub">Importe total (IVA incl.) por emisor</p>
+    <canvas id="chartFacturas"></canvas>
+  </div>
+
+  <div class="card">
+    <h2>Estado de las facturas</h2>
+    <p class="sub">9 facturas de 2024</p>
+    <canvas id="chartEstado"></canvas>
+  </div>
+
+  <div class="card wide">
+    <h2>Interacciones por contacto/entidad</h2>
+    <p class="sub">Nº de archivos (correos, notas, facturas) por cliente, mentor o proveedor</p>
+    <canvas id="chartEntidades"></canvas>
+  </div>
+
+</div>
+
+<script>
+Chart.defaults.font.family = "-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif";
+Chart.defaults.color = "#5c6478";
+
+new Chart(document.getElementById('chartMeses'), {
+  type: 'bar',
+  data: {
+    labels: ['sep-22','ene-23','feb-23','mar-23','jul-23','ene-24','mar-24','jun-24','jul-24','ago-24','sep-24','oct-24','nov-24','dic-24','ene-25'],
+    datasets: [{
+      label: 'Archivos',
+      data: [1,1,1,1,1,6,2,3,2,2,5,5,4,10,16],
+      backgroundColor: '#3457d5',
+      borderRadius: 5,
+      maxBarThickness: 34
+    }]
+  },
+  options: {
+    responsive:true,
+    plugins:{ legend:{ display:false } },
+    scales:{ y:{ beginAtZero:true, grid:{ color:'#e6e9f0' } }, x:{ grid:{ display:false } } }
+  }
+});
+
+new Chart(document.getElementById('chartFacturas'), {
+  type: 'bar',
+  data: {
+    labels: ['LinkedIn Ads','CreativeHub','CoWork Madrid','South Summit','Abogada','Vercel','OpenAI'],
+    datasets: [{
+      label: 'Importe (€)',
+      data: [60.50, 423.50, 199.65, 114.95, 423.50, 72.60, 179.08],
+      backgroundColor: ['#7c93f0','#e69138','#7c93f0','#7c93f0','#d1495b','#7c93f0','#7c93f0'],
+      borderRadius: 5
+    }]
+  },
+  options: {
+    indexAxis: 'y',
+    responsive:true,
+    plugins:{ legend:{ display:false } },
+    scales:{ x:{ beginAtZero:true, grid:{ color:'#e6e9f0' } }, y:{ grid:{ display:false } } }
+  }
+});
+
+new Chart(document.getElementById('chartEstado'), {
+  type: 'doughnut',
+  data: {
+    labels: ['Pagadas', 'Pendientes'],
+    datasets: [{
+      data: [7, 2],
+      backgroundColor: ['#2f9e6f', '#d1495b'],
+      borderWidth: 0
+    }]
+  },
+  options: {
+    responsive:true,
+    plugins:{ legend:{ position:'bottom' } }
+  }
+});
+
+new Chart(document.getElementById('chartEntidades'), {
+  type: 'bar',
+  data: {
+    labels: ['Laura (beta)','Pedro (mentor)','David (beta)','Marcos (cofundador)','Abogada','Aceleradora','Elena (contable)','Ana (partner)','OpenAI','CoWorking','South Summit','Roberto (beta)'],
+    datasets: [{
+      label: 'Archivos',
+      data: [3,3,2,2,2,2,2,2,2,2,2,1],
+      backgroundColor: '#3457d5',
+      borderRadius: 5,
+      maxBarThickness: 28
+    }]
+  },
+  options: {
+    responsive:true,
+    plugins:{ legend:{ display:false } },
+    scales:{ y:{ beginAtZero:true, grid:{ color:'#e6e9f0' } }, x:{ grid:{ display:false } } }
+  }
+});
+</script>
+
+</body>
+</html>
