@@ -1,0 +1,275 @@
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Roberto — Briefing de cliente · ProposalAI</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --amber: #ffb648;
+    --amber-dim: #c9862c;
+    --teal: #35d1c4;
+    --navy-0: #0b1220;
+    --navy-1: #121b2e;
+    --navy-2: #1a253c;
+    --ink: #eef2f8;
+    --ink-dim: #9fb0c8;
+    --stub-line: rgba(255,182,72,0.35);
+  }
+  @media (prefers-color-scheme: light){
+    :root{
+      --amber: #b5690a;
+      --amber-dim: #8a4f06;
+      --teal: #0e8f83;
+      --navy-0: #f4f1e9;
+      --navy-1: #ffffff;
+      --navy-2: #efe9d8;
+      --ink: #1c1b17;
+      --ink-dim: #5a5648;
+      --stub-line: rgba(181,105,10,0.35);
+    }
+  }
+
+  *{ box-sizing: border-box; }
+
+  html,body{
+    margin:0; padding:0; min-height:100%;
+    background:
+      radial-gradient(1200px 600px at 15% -10%, rgba(255,182,72,0.10), transparent 60%),
+      radial-gradient(900px 500px at 110% 10%, rgba(53,209,196,0.08), transparent 55%),
+      var(--navy-0);
+    background-attachment: fixed;
+    color: var(--ink);
+    font-family: 'DM Sans', sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  body::before{
+    content:"";
+    position: fixed; inset:0;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.035'/%3E%3C/svg%3E");
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  .wrap{
+    position: relative; z-index: 1;
+    max-width: 780px;
+    margin: 0 auto;
+    padding: clamp(24px, 5vw, 64px) 20px 48px;
+  }
+
+  .board-label{
+    display:flex; align-items:center; gap:10px;
+    font-family:'Space Mono', monospace;
+    font-size: 0.72rem; letter-spacing: 0.18em; text-transform: uppercase;
+    color: var(--amber);
+    opacity:0; animation: fadeUp .6s ease-out .05s forwards;
+  }
+  .board-label::before{
+    content:"●"; color: var(--teal); font-size: .6rem;
+  }
+
+  .pass{
+    margin-top: 18px;
+    background: linear-gradient(180deg, var(--navy-1), var(--navy-2));
+    border: 1px solid rgba(255,182,72,0.18);
+    border-radius: 22px;
+    box-shadow: 0 30px 60px -30px rgba(0,0,0,0.6);
+    overflow: hidden;
+  }
+
+  .pass-head{
+    padding: clamp(22px,4vw,36px) clamp(22px,4vw,36px) 20px;
+    display:flex; justify-content:space-between; align-items:flex-start; gap: 16px;
+    opacity:0; animation: fadeUp .6s ease-out .15s forwards;
+  }
+  .pass-head h1{
+    font-family:'Space Grotesk', sans-serif;
+    font-weight:700;
+    font-size: clamp(2rem, 6vw, 2.9rem);
+    line-height: 1.02;
+    margin: 0 0 6px;
+    letter-spacing: -0.01em;
+  }
+  .pass-head .sub{
+    color: var(--ink-dim);
+    font-size: 0.98rem;
+    max-width: 40ch;
+  }
+  .gate{
+    text-align:right;
+    font-family:'Space Mono', monospace;
+  }
+  .gate .k{ font-size:0.65rem; letter-spacing:.14em; text-transform:uppercase; color: var(--ink-dim); }
+  .gate .v{ font-size:1.5rem; color: var(--amber); font-weight:700; }
+
+  .perf{
+    position: relative;
+    height: 0; border-top: 2px dashed var(--stub-line);
+    margin: 4px 0 0;
+  }
+  .perf::before, .perf::after{
+    content:""; position:absolute; top:-11px; width:22px; height:22px;
+    border-radius:50%; background: var(--navy-0);
+  }
+  .perf::before{ left:-11px; }
+  .perf::after{ right:-11px; }
+
+  .section{
+    padding: 26px clamp(22px,4vw,36px);
+    opacity:0; animation: fadeUp .6s ease-out forwards;
+  }
+  .section + .section{ border-top: 1px solid rgba(255,255,255,0.06); }
+  .section:nth-of-type(1){ animation-delay: .25s; }
+  .section:nth-of-type(2){ animation-delay: .35s; }
+  .section:nth-of-type(3){ animation-delay: .45s; }
+
+  .section h2{
+    font-family:'Space Grotesk', sans-serif;
+    font-size: 0.78rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--teal);
+    margin: 0 0 14px;
+    display:flex; align-items:center; gap:10px;
+  }
+  .section h2 .tag{
+    font-family:'Space Mono', monospace;
+    background: rgba(53,209,196,0.12);
+    border: 1px solid rgba(53,209,196,0.35);
+    padding: 2px 8px; border-radius: 6px;
+    font-size: 0.68rem; color: var(--teal);
+    letter-spacing: 0.02em;
+  }
+
+  ul.items{ list-style:none; margin:0; padding:0; display:grid; gap:12px; }
+  ul.items li{
+    background: rgba(255,255,255,0.025);
+    border: 1px solid rgba(255,255,255,0.06);
+    border-left: 3px solid var(--amber-dim);
+    border-radius: 10px;
+    padding: 12px 14px;
+    font-size: 0.95rem;
+    line-height: 1.5;
+  }
+  ul.items li b{ color: var(--ink); font-weight:600; }
+  ul.items li .date{
+    font-family:'Space Mono', monospace;
+    color: var(--amber);
+    font-size: 0.78rem;
+    margin-right: 8px;
+  }
+
+  ol.steps{ list-style:none; margin:0; padding:0; counter-reset: step; display:grid; gap:12px; }
+  ol.steps li{
+    counter-increment: step;
+    display:flex; gap:14px; align-items:flex-start;
+    font-size: 0.95rem; line-height:1.5;
+  }
+  ol.steps li::before{
+    content: counter(step);
+    flex: none;
+    width: 26px; height:26px; border-radius:50%;
+    background: linear-gradient(135deg, var(--amber), var(--amber-dim));
+    color: var(--navy-0);
+    font-family:'Space Grotesk', sans-serif; font-weight:700; font-size:0.82rem;
+    display:flex; align-items:center; justify-content:center;
+  }
+
+  .note{
+    margin: 26px clamp(22px,4vw,36px) 0;
+    padding: 14px 16px;
+    border-radius: 12px;
+    background: rgba(255,182,72,0.06);
+    border: 1px dashed var(--stub-line);
+    font-size: 0.86rem;
+    color: var(--ink-dim);
+    opacity:0; animation: fadeUp .6s ease-out .55s forwards;
+  }
+  .note b{ color: var(--amber); }
+
+  .stub-foot{
+    display:flex; justify-content:space-between; align-items:center;
+    padding: 18px clamp(22px,4vw,36px) 26px;
+    font-family:'Space Mono', monospace;
+    font-size: 0.7rem; color: var(--ink-dim);
+    opacity:0; animation: fadeUp .6s ease-out .6s forwards;
+  }
+
+  footer{
+    max-width: 780px; margin: 28px auto 0; padding: 14px 20px 0;
+    border-top: 1px solid rgba(255,255,255,0.08);
+    text-align:center; font-size: 0.7rem; color: var(--ink-dim);
+  }
+  footer a{ color: var(--teal); text-decoration:none; }
+
+  @keyframes fadeUp{
+    from{ opacity:0; transform: translateY(14px); }
+    to{ opacity:1; transform: translateY(0); }
+  }
+
+  @media (max-width: 520px){
+    .pass-head{ flex-direction:column; }
+    .gate{ text-align:left; }
+  }
+</style>
+
+<div class="wrap">
+  <div class="board-label">Briefing de cliente · antes de tu reunión</div>
+
+  <div class="pass">
+    <div class="pass-head">
+      <div>
+        <h1>Roberto</h1>
+        <div class="sub">Diseñador freelance · ~20 propuestas/mes · roberto.freelance@gmail.com</div>
+      </div>
+      <div class="gate">
+        <div class="k">Estado</div>
+        <div class="v">BETA</div>
+      </div>
+    </div>
+
+    <div class="perf"></div>
+
+    <div class="section">
+      <h2>Últimas comunicaciones <span class="tag">3 items</span></h2>
+      <ul class="items">
+        <li><span class="date">03 ENE 2025</span>Correo inicial — <b>"Pregunta sobre ProposalAI"</b>. Preguntó por prueba gratis, uso para diseño gráfico, importar propuestas anteriores y descuento anual. Se respondió sí a todo excepto importar (en roadmap).</li>
+        <li><span class="date">ENE 2025</span>Invitado a la beta — métricas del mes lo listan entre los <b>+2 nuevos usuarios beta</b> (junto a Ana).</li>
+        <li><span class="date">ENE 2025</span>Aparece en el listado de <b>usuarios beta más activos</b>, junto a Laura, Miguel, Ana y Sara.</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Temas pendientes <span class="tag">3 items</span></h2>
+      <ul class="items">
+        <li>Seguimiento sin cerrar: <b>verificar si se registró</b> tras la respuesta del 3 de enero.</li>
+        <li>Petición de <b>importar propuestas anteriores</b> como referencia — sigue sin estar disponible.</li>
+        <li>No hay constancia de si se confirmó el <b>descuento por pago anual</b>.</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Próximos pasos sugeridos</h2>
+      <ol class="steps">
+        <li>Confirmar que activó la cuenta beta y ya la está usando.</li>
+        <li>Recoger su feedback activamente — encaja en el perfil objetivo (freelance, alto volumen, diseño gráfico).</li>
+        <li>Si "importar propuestas anteriores" sigue siendo recurrente, subir su prioridad en el backlog.</li>
+      </ol>
+    </div>
+
+    <div class="note">
+      <b>Ojo antes de escribirle:</b> existe otro "Roberto" en tus archivos — founder de una herramienta similar en México, contactado en South Summit 2024. No es la misma persona.
+    </div>
+
+    <div class="stub-foot">
+      <span>PROPOSALAI · CRM DE BOLSILLO</span>
+      <span>GENERADO EN SEGUNDOS</span>
+    </div>
+  </div>
+
+  <footer>
+    Rebundle · 24 julio 2026<br>
+    <a href="https://rebundle.ai">rebundle.ai</a>
+  </footer>
+</div>
