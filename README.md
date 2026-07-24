@@ -21,3 +21,13 @@ Claude te guía a partir de ahí. Todo corre en la nube, en tu navegador.
 ---
 
 _Los archivos de `assets/` son datos de práctica ficticios para los ejercicios. No hay información real ni credenciales de nadie._
+
+---
+
+## Opción B — en tu ordenador (local)
+
+Si prefieres hacerlo en tu ordenador (no en iPad), descarga tu kit y ejecútalo en local:
+
+1. Descarga **[local/rebundle-RB-3BXZ-TX9K.zip](local/rebundle-RB-3BXZ-TX9K.zip)** (botón **Download**, arriba a la derecha del archivo).
+2. Descomprímelo.
+3. Sigue **[docs/instalacion-previa.md](docs/instalacion-previa.md)** para instalar Claude Code y arrancar con `/empezar`.
